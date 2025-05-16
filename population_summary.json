@@ -1,0 +1,414 @@
+{
+  "variable_summary": {
+    "年度": {
+      "variable_name": "年度",
+      "data_type": "integer",
+      "type": "整數",
+      "mean": 104,
+      "std_dev": 3.17,
+      "min": 99,
+      "max": 109,
+      "quantile_25": 101,
+      "median": 104,
+      "quantile_75": 107
+    },
+    "月份": {
+      "variable_name": "月份",
+      "data_type": "integer",
+      "type": "整數",
+      "mean": 6.5,
+      "std_dev": 3.47,
+      "min": 1,
+      "max": 12,
+      "quantile_25": 3.75,
+      "median": 6.5,
+      "quantile_75": 9.25
+    },
+    "總計": {
+      "variable_name": "總計",
+      "data_type": "integer",
+      "type": "整數",
+      "mean": 14277.48,
+      "std_dev": 446.69,
+      "min": 13575,
+      "max": 15230,
+      "quantile_25": 13895.5,
+      "median": 14350.5,
+      "quantile_75": 14503
+    },
+    "年齡0.4歲人數": {
+      "variable_name": "年齡0.4歲人數",
+      "data_type": "integer",
+      "type": "整數",
+      "mean": 584.2,
+      "std_dev": 23.33,
+      "min": 536,
+      "max": 623,
+      "quantile_25": 563,
+      "median": 589,
+      "quantile_75": 602
+    },
+    "年齡5.9歲人數": {
+      "variable_name": "年齡5.9歲人數",
+      "data_type": "integer",
+      "type": "整數",
+      "mean": 453.6,
+      "std_dev": 89.45,
+      "min": 340,
+      "max": 628,
+      "quantile_25": 375.75,
+      "median": 417.5,
+      "quantile_75": 535.25
+    },
+    "年齡10.14歲人數": {
+      "variable_name": "年齡10.14歲人數",
+      "data_type": "integer",
+      "type": "整數",
+      "mean": 522.41,
+      "std_dev": 80.98,
+      "min": 388,
+      "max": 658,
+      "quantile_25": 453,
+      "median": 521,
+      "quantile_75": 586.5
+    },
+    "年齡15.19歲人數": {
+      "variable_name": "年齡15.19歲人數",
+      "data_type": "integer",
+      "type": "整數",
+      "mean": 764.81,
+      "std_dev": 43.38,
+      "min": 676,
+      "max": 842,
+      "quantile_25": 730.5,
+      "median": 768,
+      "quantile_75": 800.25
+    },
+    "年齡20.24歲人數": {
+      "variable_name": "年齡20.24歲人數",
+      "data_type": "integer",
+      "type": "整數",
+      "mean": 1002.97,
+      "std_dev": 113.07,
+      "min": 822,
+      "max": 1196,
+      "quantile_25": 914,
+      "median": 1037.5,
+      "quantile_75": 1084
+    },
+    "年齡25.29歲人數": {
+      "variable_name": "年齡25.29歲人數",
+      "data_type": "integer",
+      "type": "整數",
+      "mean": 1025.45,
+      "std_dev": 58.82,
+      "min": 936,
+      "max": 1204,
+      "quantile_25": 977,
+      "median": 1013.5,
+      "quantile_75": 1061.5
+    },
+    "年齡30.34歲人數": {
+      "variable_name": "年齡30.34歲人數",
+      "data_type": "integer",
+      "type": "整數",
+      "mean": 1123.61,
+      "std_dev": 89.61,
+      "min": 967,
+      "max": 1234,
+      "quantile_25": 1030.75,
+      "median": 1152.5,
+      "quantile_75": 1207
+    },
+    "年齡35.39歲人數": {
+      "variable_name": "年齡35.39歲人數",
+      "data_type": "integer",
+      "type": "整數",
+      "mean": 1171.63,
+      "std_dev": 61.73,
+      "min": 1050,
+      "max": 1264,
+      "quantile_25": 1113,
+      "median": 1190,
+      "quantile_75": 1221.25
+    },
+    "年齡40.44歲人數": {
+      "variable_name": "年齡40.44歲人數",
+      "data_type": "integer",
+      "type": "整數",
+      "mean": 1101.34,
+      "std_dev": 41.04,
+      "min": 1053,
+      "max": 1226,
+      "quantile_25": 1072,
+      "median": 1085,
+      "quantile_75": 1110.25
+    },
+    "年齡45.49歲人數": {
+      "variable_name": "年齡45.49歲人數",
+      "data_type": "integer",
+      "type": "整數",
+      "mean": 1128.77,
+      "std_dev": 46.5,
+      "min": 1040,
+      "max": 1219,
+      "quantile_25": 1091.75,
+      "median": 1117.5,
+      "quantile_75": 1176.25
+    },
+    "年齡50.54歲人數": {
+      "variable_name": "年齡50.54歲人數",
+      "data_type": "integer",
+      "type": "整數",
+      "mean": 1130.37,
+      "std_dev": 106.26,
+      "min": 937,
+      "max": 1275,
+      "quantile_25": 1053.5,
+      "median": 1160,
+      "quantile_75": 1216
+    },
+    "年齡55.59歲人數": {
+      "variable_name": "年齡55.59歲人數",
+      "data_type": "integer",
+      "type": "整數",
+      "mean": 999.86,
+      "std_dev": 142.04,
+      "min": 796,
+      "max": 1238,
+      "quantile_25": 852.5,
+      "median": 999,
+      "quantile_75": 1125.25
+    },
+    "年齡60.64歲人數": {
+      "variable_name": "年齡60.64歲人數",
+      "data_type": "integer",
+      "type": "整數",
+      "mean": 813.56,
+      "std_dev": 139.86,
+      "min": 538,
+      "max": 1071,
+      "quantile_25": 701,
+      "median": 837.5,
+      "quantile_75": 920.5
+    },
+    "年齡65.69歲人數": {
+      "variable_name": "年齡65.69歲人數",
+      "data_type": "integer",
+      "type": "整數",
+      "mean": 600.83,
+      "std_dev": 143.75,
+      "min": 452,
+      "max": 866,
+      "quantile_25": 476.75,
+      "median": 531.5,
+      "quantile_75": 720.25
+    },
+    "年齡70.74歲人數": {
+      "variable_name": "年齡70.74歲人數",
+      "data_type": "integer",
+      "type": "整數",
+      "mean": 480.45,
+      "std_dev": 39.16,
+      "min": 421,
+      "max": 573,
+      "quantile_25": 449,
+      "median": 474,
+      "quantile_75": 505.75
+    },
+    "年齡75.79歲人數": {
+      "variable_name": "年齡75.79歲人數",
+      "data_type": "integer",
+      "type": "整數",
+      "mean": 479.05,
+      "std_dev": 54.53,
+      "min": 389,
+      "max": 598,
+      "quantile_25": 433.75,
+      "median": 478,
+      "quantile_75": 510
+    },
+    "年齡80.84歲人數": {
+      "variable_name": "年齡80.84歲人數",
+      "data_type": "integer",
+      "type": "整數",
+      "mean": 451.2,
+      "std_dev": 40.59,
+      "min": 387,
+      "max": 512,
+      "quantile_25": 413,
+      "median": 453.5,
+      "quantile_75": 485.5
+    },
+    "年齡85.89歲人數": {
+      "variable_name": "年齡85.89歲人數",
+      "data_type": "integer",
+      "type": "整數",
+      "mean": 287.55,
+      "std_dev": 41.66,
+      "min": 212,
+      "max": 350,
+      "quantile_25": 251.75,
+      "median": 300.5,
+      "quantile_75": 320.5
+    },
+    "年齡90.94歲人數": {
+      "variable_name": "年齡90.94歲人數",
+      "data_type": "integer",
+      "type": "整數",
+      "mean": 120.48,
+      "std_dev": 22.33,
+      "min": 79,
+      "max": 173,
+      "quantile_25": 103,
+      "median": 123,
+      "quantile_75": 135
+    },
+    "年齡95.99歲人數": {
+      "variable_name": "年齡95.99歲人數",
+      "data_type": "integer",
+      "type": "整數",
+      "mean": 31.45,
+      "std_dev": 8.09,
+      "min": 19,
+      "max": 46,
+      "quantile_25": 24,
+      "median": 31,
+      "quantile_75": 39.25
+    },
+    "年齡100歲人數以上": {
+      "variable_name": "年齡100歲人數以上",
+      "data_type": "integer",
+      "type": "整數",
+      "mean": 3.89,
+      "std_dev": 1.72,
+      "min": 1,
+      "max": 8,
+      "quantile_25": 2,
+      "median": 4,
+      "quantile_75": 5
+    }
+  },
+  "missing_values": {
+    "年度": {
+      "variable_name": "年度",
+      "data_type": "integer",
+      "missing_count": 0
+    },
+    "月份": {
+      "variable_name": "月份",
+      "data_type": "integer",
+      "missing_count": 0
+    },
+    "總計": {
+      "variable_name": "總計",
+      "data_type": "integer",
+      "missing_count": 0
+    },
+    "年齡0.4歲人數": {
+      "variable_name": "年齡0.4歲人數",
+      "data_type": "integer",
+      "missing_count": 0
+    },
+    "年齡5.9歲人數": {
+      "variable_name": "年齡5.9歲人數",
+      "data_type": "integer",
+      "missing_count": 0
+    },
+    "年齡10.14歲人數": {
+      "variable_name": "年齡10.14歲人數",
+      "data_type": "integer",
+      "missing_count": 0
+    },
+    "年齡15.19歲人數": {
+      "variable_name": "年齡15.19歲人數",
+      "data_type": "integer",
+      "missing_count": 0
+    },
+    "年齡20.24歲人數": {
+      "variable_name": "年齡20.24歲人數",
+      "data_type": "integer",
+      "missing_count": 0
+    },
+    "年齡25.29歲人數": {
+      "variable_name": "年齡25.29歲人數",
+      "data_type": "integer",
+      "missing_count": 0
+    },
+    "年齡30.34歲人數": {
+      "variable_name": "年齡30.34歲人數",
+      "data_type": "integer",
+      "missing_count": 0
+    },
+    "年齡35.39歲人數": {
+      "variable_name": "年齡35.39歲人數",
+      "data_type": "integer",
+      "missing_count": 0
+    },
+    "年齡40.44歲人數": {
+      "variable_name": "年齡40.44歲人數",
+      "data_type": "integer",
+      "missing_count": 0
+    },
+    "年齡45.49歲人數": {
+      "variable_name": "年齡45.49歲人數",
+      "data_type": "integer",
+      "missing_count": 0
+    },
+    "年齡50.54歲人數": {
+      "variable_name": "年齡50.54歲人數",
+      "data_type": "integer",
+      "missing_count": 0
+    },
+    "年齡55.59歲人數": {
+      "variable_name": "年齡55.59歲人數",
+      "data_type": "integer",
+      "missing_count": 0
+    },
+    "年齡60.64歲人數": {
+      "variable_name": "年齡60.64歲人數",
+      "data_type": "integer",
+      "missing_count": 0
+    },
+    "年齡65.69歲人數": {
+      "variable_name": "年齡65.69歲人數",
+      "data_type": "integer",
+      "missing_count": 0
+    },
+    "年齡70.74歲人數": {
+      "variable_name": "年齡70.74歲人數",
+      "data_type": "integer",
+      "missing_count": 0
+    },
+    "年齡75.79歲人數": {
+      "variable_name": "年齡75.79歲人數",
+      "data_type": "integer",
+      "missing_count": 0
+    },
+    "年齡80.84歲人數": {
+      "variable_name": "年齡80.84歲人數",
+      "data_type": "integer",
+      "missing_count": 0
+    },
+    "年齡85.89歲人數": {
+      "variable_name": "年齡85.89歲人數",
+      "data_type": "integer",
+      "missing_count": 0
+    },
+    "年齡90.94歲人數": {
+      "variable_name": "年齡90.94歲人數",
+      "data_type": "integer",
+      "missing_count": 0
+    },
+    "年齡95.99歲人數": {
+      "variable_name": "年齡95.99歲人數",
+      "data_type": "integer",
+      "missing_count": 0
+    },
+    "年齡100歲人數以上": {
+      "variable_name": "年齡100歲人數以上",
+      "data_type": "integer",
+      "missing_count": 0
+    }
+  }
+}

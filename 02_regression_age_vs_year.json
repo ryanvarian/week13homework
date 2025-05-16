@@ -1,0 +1,149 @@
+[
+  {
+    "age_group": "年齡0-4歲人數",
+    "intercept": -8799.2841,
+    "slope": 4.6568,
+    "p_value": 3.4934e-16,
+    "r_squared": 0.4016
+  },
+  {
+    "age_group": "年齡5-9歲人數",
+    "intercept": 54963.928,
+    "slope": -27.0523,
+    "p_value": 9.9082e-74,
+    "r_squared": 0.9216
+  },
+  {
+    "age_group": "年齡10-14歲人數",
+    "intercept": 51314.1477,
+    "slope": -25.2068,
+    "p_value": 1.3618e-107,
+    "r_squared": 0.9764
+  },
+  {
+    "age_group": "年齡15-19歲人數",
+    "intercept": 19009.7197,
+    "slope": -9.0545,
+    "p_value": 5.0003e-18,
+    "r_squared": 0.439
+  },
+  {
+    "age_group": "年齡20-24歲人數",
+    "intercept": -68459.5758,
+    "slope": 34.4727,
+    "p_value": 9.4329e-80,
+    "r_squared": 0.9366
+  },
+  {
+    "age_group": "年齡25-29歲人數",
+    "intercept": -10475.3182,
+    "slope": 5.7076,
+    "p_value": 0.0003,
+    "r_squared": 0.0949
+  },
+  {
+    "age_group": "年齡30-34歲人數",
+    "intercept": 54130.3182,
+    "slope": -26.3061,
+    "p_value": 4.3034e-59,
+    "r_squared": 0.8684
+  },
+  {
+    "age_group": "年齡35-39歲人數",
+    "intercept": -31883.5303,
+    "slope": 16.4045,
+    "p_value": 6.5189e-37,
+    "r_squared": 0.7116
+  },
+  {
+    "age_group": "年齡40-44歲人數",
+    "intercept": -18770.8333,
+    "slope": 9.8621,
+    "p_value": 2.1745e-26,
+    "r_squared": 0.582
+  },
+  {
+    "age_group": "年齡45-49歲人數",
+    "intercept": -887.7538,
+    "slope": 1.0008,
+    "p_value": 0.4364,
+    "r_squared": 0.0047
+  },
+  {
+    "age_group": "年齡50-54歲人數",
+    "intercept": -63619.822,
+    "slope": 32.1341,
+    "p_value": 1.1259e-73,
+    "r_squared": 0.9214
+  },
+  {
+    "age_group": "年齡55-59歲人數",
+    "intercept": -88170,
+    "slope": 44.253,
+    "p_value": 1.0089e-109,
+    "r_squared": 0.9781
+  },
+  {
+    "age_group": "年齡60-64歲人數",
+    "intercept": -85999.3561,
+    "slope": 43.0833,
+    "p_value": 3.711e-90,
+    "r_squared": 0.9562
+  },
+  {
+    "age_group": "年齡65-69歲人數",
+    "intercept": -84745.1023,
+    "slope": 42.3553,
+    "p_value": 1.6928e-60,
+    "r_squared": 0.8747
+  },
+  {
+    "age_group": "年齡70-74歲人數",
+    "intercept": 9180.0644,
+    "slope": -4.3174,
+    "p_value": 0,
+    "r_squared": 0.1225
+  },
+  {
+    "age_group": "年齡75-79歲人數",
+    "intercept": 33691.4432,
+    "slope": -16.4826,
+    "p_value": 2.2208e-73,
+    "r_squared": 0.9206
+  },
+  {
+    "age_group": "年齡80-84歲人數",
+    "intercept": 20698.8939,
+    "slope": -10.0485,
+    "p_value": 6.6967e-29,
+    "r_squared": 0.6174
+  },
+  {
+    "age_group": "年齡85-89歲人數",
+    "intercept": -23254.3636,
+    "slope": 11.6833,
+    "p_value": 2.986e-46,
+    "r_squared": 0.7927
+  },
+  {
+    "age_group": "年齡90-94歲人數",
+    "intercept": -13279.2727,
+    "slope": 6.65,
+    "p_value": 4.7874e-65,
+    "r_squared": 0.8934
+  },
+  {
+    "age_group": "年齡95-99歲人數",
+    "intercept": -4670.2197,
+    "slope": 2.3333,
+    "p_value": 2.5644e-53,
+    "r_squared": 0.8385
+  },
+  {
+    "age_group": "年齡100歲人數以上",
+    "intercept": -310.5682,
+    "slope": 0.1561,
+    "p_value": 0.0008,
+    "r_squared": 0.0827
+  }
+]

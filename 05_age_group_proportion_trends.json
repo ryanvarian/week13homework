@@ -1,0 +1,128 @@
+[
+  {
+    "age_group": "年齡0-4歲人數",
+    "prop_min": 0.0393,
+    "prop_max": 0.0427,
+    "prop_change": 0.0035
+  },
+  {
+    "age_group": "年齡10-14歲人數",
+    "prop_min": 0.0267,
+    "prop_max": 0.0468,
+    "prop_change": 0.02
+  },
+  {
+    "age_group": "年齡100歲人數以上",
+    "prop_min": 0.0001,
+    "prop_max": 0.0004,
+    "prop_change": 0.0003
+  },
+  {
+    "age_group": "年齡15-19歲人數",
+    "prop_min": 0.0474,
+    "prop_max": 0.0591,
+    "prop_change": 0.0117
+  },
+  {
+    "age_group": "年齡20-24歲人數",
+    "prop_min": 0.0608,
+    "prop_max": 0.0782,
+    "prop_change": 0.0174
+  },
+  {
+    "age_group": "年齡25-29歲人數",
+    "prop_min": 0.0671,
+    "prop_max": 0.0797,
+    "prop_change": 0.0126
+  },
+  {
+    "age_group": "年齡30-34歲人數",
+    "prop_min": 0.0647,
+    "prop_max": 0.0886,
+    "prop_change": 0.0239
+  },
+  {
+    "age_group": "年齡35-39歲人數",
+    "prop_min": 0.078,
+    "prop_max": 0.0854,
+    "prop_change": 0.0074
+  },
+  {
+    "age_group": "年齡40-44歲人數",
+    "prop_min": 0.0752,
+    "prop_max": 0.0799,
+    "prop_change": 0.0047
+  },
+  {
+    "age_group": "年齡45-49歲人數",
+    "prop_min": 0.0733,
+    "prop_max": 0.0845,
+    "prop_change": 0.0112
+  },
+  {
+    "age_group": "年齡5-9歲人數",
+    "prop_min": 0.0237,
+    "prop_max": 0.0452,
+    "prop_change": 0.0215
+  },
+  {
+    "age_group": "年齡50-54歲人數",
+    "prop_min": 0.0696,
+    "prop_max": 0.0856,
+    "prop_change": 0.0161
+  },
+  {
+    "age_group": "年齡55-59歲人數",
+    "prop_min": 0.0597,
+    "prop_max": 0.0807,
+    "prop_change": 0.021
+  },
+  {
+    "age_group": "年齡60-64歲人數",
+    "prop_min": 0.0413,
+    "prop_max": 0.0686,
+    "prop_change": 0.0274
+  },
+  {
+    "age_group": "年齡65-69歲人數",
+    "prop_min": 0.0337,
+    "prop_max": 0.0566,
+    "prop_change": 0.0229
+  },
+  {
+    "age_group": "年齡70-74歲人數",
+    "prop_min": 0.03,
+    "prop_max": 0.0401,
+    "prop_change": 0.0102
+  },
+  {
+    "age_group": "年齡75-79歲人數",
+    "prop_min": 0.0267,
+    "prop_max": 0.0429,
+    "prop_change": 0.0162
+  },
+  {
+    "age_group": "年齡80-84歲人數",
+    "prop_min": 0.0263,
+    "prop_max": 0.0366,
+    "prop_change": 0.0103
+  },
+  {
+    "age_group": "年齡85-89歲人數",
+    "prop_min": 0.0161,
+    "prop_max": 0.0234,
+    "prop_change": 0.0074
+  },
+  {
+    "age_group": "年齡90-94歲人數",
+    "prop_min": 0.006,
+    "prop_max": 0.0107,
+    "prop_change": 0.0046
+  },
+  {
+    "age_group": "年齡95-99歲人數",
+    "prop_min": 0.0015,
+    "prop_max": 0.0029,
+    "prop_change": 0.0014
+  }
+]
